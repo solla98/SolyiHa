@@ -1,4 +1,4 @@
-<h1>Hi, I'm Solyi Ha, an <a href="[https://linkedin.com/in/SolyiHa](https://www.linkedin.com/in/solyi-ha-b54055173/)">IT Professional</a>☺</h1>
+<h1>Hi, I'm Solyi Ha, an <a href="https://www.linkedin.com/in/solyi-ha-b54055173">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
