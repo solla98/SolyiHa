@@ -2,8 +2,12 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Active Directory</b>
+  - [AD: Deploying Active Directory](https://github.com/joshmadakoredmonds/osticket-prereqs)
+  - [AD: Creating random users with PowerShell](https://github.com/joshmadakoredmonds/post-install-config)
+  - [AD: Group Policy and Managing Accounts](https://github.com/joshmadakoredmonds/ticket-lifecycle)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakoredmonds/osticket-prereqs)
+  - [osTicket: Installation](https://github.com/joshmadakoredmonds/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakoredmonds/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakoredmonds/ticket-lifecycle)
 - <b>Microsoft Azure</b>
