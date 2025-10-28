@@ -8,7 +8,7 @@
   - [AD: Group Policy and Managing Accounts](https://github.com/joshmadakoredmonds/ticket-lifecycle)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/solla98/osTicket-Installation)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakoredmonds/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/solla98/osTicket-Post-installation)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakoredmonds/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
