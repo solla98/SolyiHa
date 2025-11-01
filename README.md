@@ -3,8 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
-  - [AD: Setting up Active Directory in Azure](https://github.com/joshmadakoredmonds/osticket-prereqs)
-  - [AD: Deploying Active Directory](https://github.com/joshmadakoredmonds/osticket-prereqs)
+  - [AD: Setting up and Deploying Active Directory](https://github.com/solla98/AD-Deploy-in-Azure)
   - [AD: Creating random users with PowerShell](https://github.com/joshmadakoredmonds/post-install-config)
   - [AD: Group Policy and Managing Accounts](https://github.com/joshmadakoredmonds/ticket-lifecycle)
 - <b>osTicket (Help Desk Ticketing System)</b>
