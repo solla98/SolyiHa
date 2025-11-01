@@ -5,7 +5,7 @@
 - <b>Active Directory</b>
   - [AD: Setting up and Deploying Active Directory](https://github.com/solla98/AD-Deploy-in-Azure)
   - [AD: Creating random users with PowerShell](https://github.com/solla98/AD-Creating-users-in-Powershell)
-  - [AD: Group Policy and Managing Accounts](https://github.com/joshmadakoredmonds/ticket-lifecycle)
+  - [AD: Group Policy and Managing Accounts](https://github.com/solla98/AD-Group-policy-and-managing-accounts)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/solla98/osTicket-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/solla98/osTicket-Post-installation)
